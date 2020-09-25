@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneca BIC Preta",
+      "Price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "Price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "Price": 2
+    },
+    {
+      "name": "Geladeira Consul Frost Free",
+      "price": "1913.99",
+      "id": 4
+    }
+  ]
+}
