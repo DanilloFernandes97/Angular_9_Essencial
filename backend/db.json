@@ -1,24 +1,49 @@
 {
   "products": [
     {
-      "id": 1,
-      "name": "Caneca BIC Preta",
-      "Price": 5.89
+      "name": "Fender Statrocaster Jimi Hendrix Signature",
+      "price": "99999",
+      "id": 6
     },
     {
-      "id": 2,
-      "name": "Notebook Mac Pro",
-      "Price": 12000.89
+      "name": "Ibanez Kiko Loureiro 10p Signature Red",
+      "price": "8000",
+      "id": 7
     },
     {
-      "id": 3,
-      "name": "Samsung S20+",
-      "Price": 2
+      "name": "Tagima Kiko Loureiro K1 Black (usada)",
+      "price": "6000",
+      "id": 8
     },
     {
-      "name": "Geladeira Consul Frost Free",
-      "price": "1913.99",
-      "id": 4
+      "name": "Yamaha Strato Rafael Bittencourt Signature Branca (Usada)",
+      "price": "6000",
+      "id": 9
+    },
+    {
+      "name": "Amplificador Roland Katana",
+      "price": "10000",
+      "id": 10
+    },
+    {
+      "name": "Pedaleira para guitarra Boss Me-70",
+      "price": "1600",
+      "id": 11
+    },
+    {
+      "name": "Fender Mustang Kurt Cobain Signature",
+      "price": "9000",
+      "id": 12
+    },
+    {
+      "name": "Encordoamento p/ guitarra D'Addario NYXL 0.10",
+      "price": "30",
+      "id": 13
+    },
+    {
+      "name": "Guitarra Ibanez JEM Joe Santriani",
+      "price": "99999",
+      "id": 14
     }
   ]
 }
